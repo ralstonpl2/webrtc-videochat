@@ -14,5 +14,9 @@
     "ejs": "^2.3.1",
     "express": "^4.14.0",
     "express.io": "^1.1.13"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "connect": "^3.4.1"
   }
 }
